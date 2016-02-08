@@ -1,8 +1,8 @@
 """
-Name             : Aplication absent from Tkinter
+Name             : Aplication absent from Tkinter version 1
 Created By       : Rahmandani Herlambang (Danias)
 License          : GNU GENERAL PUBLIC LICENSE Version 3, 29 June 2007
-Documentation    : https://github.com/DaniasHerlambang13/Aplication-Absent-from-Tkinter.git
+Documentation    : https://github.com/DaniasHerlambang13/-I-Aplication-Absent-from-Tkinter.git
 Thanks to        : Python Tkinter - Mexico Tech - Newbie
 """
 
